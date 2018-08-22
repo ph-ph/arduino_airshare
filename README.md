@@ -2,7 +2,6 @@
 Code samples for Arduino class
 
 # Pre-work
-
 - Download Arduino IDE https://www.arduino.cc/en/Main/Software
 - Download this repository
 
